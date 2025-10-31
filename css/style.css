@@ -658,7 +658,7 @@ p, li, span {
     font-size: 62.5%;
   }
 
-  /* Navbar — sama persis kayak landscape */
+  /* Navbar sama persis kayak landscape */
   .navbar {
     background: transparent; /* biar nyatu sama hero */
     position: fixed;
